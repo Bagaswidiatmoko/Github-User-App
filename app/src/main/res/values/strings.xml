@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GithubUser</string>
+    <string name="name">Nama</string>
+    <string name="detail">Detail</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="angkaFollowing">100</string>
+    <string name="angkaFollowers">100</string>
+    <string name="nama">Bagas</string>
+    <string name="favorite">Favorite</string>
+    <string name="setting">Setting</string>
+    <string name="light_theme">Light Theme</string>
+    <string name="light_theme_off">Light Theme</string>
+    <string name="dark_theme">Dark Theme</string>
+    <string name="textEmpty">User favorites not found</string>
+    <string name="search">Search</string>
+</resources>
